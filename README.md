@@ -1,2 +1,2 @@
 # HUFFMAN COMPRESSOR
-A  program that can losslessly compress and decompress files using Huffman Encoding
+A  program based on Huffman’s Compression Algorithm which can compress and decompress text file consisting of 128 ASCII characters.
